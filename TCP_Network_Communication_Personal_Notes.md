@@ -4,8 +4,6 @@
 
 These are my personal notes on the network communication and TCP concepts I have studied so far.
 
-I wrote them in simple first-person language so that when I return to them in the future, I can understand what I was learning without having to go through the original lessons again.
-
 These notes cover what I have studied from the fundamentals of communication up to the TCP three-way handshake.
 
 ---
